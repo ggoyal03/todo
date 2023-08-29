@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "taskName": "Create a GraphQL Application",
+      "status": "COMPLETED",
+      "createdAt": "now"
+    },
+    {
+      "id": "Uo1Q_luVS0VDL6gw0PiS6",
+      "createdAt": 1589048279978,
+      "taskName": "Graphql API",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "K5IckZhwH89IfPFuFgTA8",
+      "createdAt": 1589052270654,
+      "taskName": "Create React App",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "sD9FjW8oBZ-jyanGiPszH",
+      "createdAt": 1589170728164,
+      "taskName": "testing final data",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "6czWOWuxw4JDLSRnHXa7o",
+      "createdAt": 1589171777905,
+      "taskName": "hello how are you",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "vQ9kP0wmxEJ-khdK3gJPN",
+      "createdAt": 1693285049425,
+      "taskName": "testing TODO",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "BcgvNgJWJ3XZH-JGfuBEj",
+      "createdAt": 1693285087521,
+      "taskName": "hello",
+      "status": "NOT_STARTED"
+    }
+  ],
+  "users": [
+    {
+      "username": "Gaurav Goyal",
+      "password": "test"
+    }
+  ]
+}
